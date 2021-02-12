@@ -2,7 +2,6 @@ tmp
 *.swp
 
 simulated_fastqs
-*.fastq
 *.pyc
 !**/__pycache__/
 rebuilding.md
