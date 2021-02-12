@@ -1,0 +1,11 @@
+tmp
+*.swp
+
+simulated_fastqs
+*.fastq
+*.pyc
+!**/__pycache__/
+rebuilding.md
+readiator_documentation.md
+single.simulated/
+.Rhistory
